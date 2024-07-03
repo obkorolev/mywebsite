@@ -50,19 +50,19 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Marine Science and Technology
+    institution: Cadiz University, Spain
+    date_start: 2024-01-01
+    date_end: ongoing
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Antarctic Biogeochemistry and Remote Sensing research.
+    #button:
+    #  text: 'Read Thesis'
+    # url: 'https://example.com'
+  - area: MSc Oceanography
+    institution: Cadiz University / Institute of Marine Sciences of Andalusia, Spain
+    date_start: 2020-09-15
+    date_end: 2021-09-15
     summary: |
       GPA: 3.8/4.0
 
@@ -70,10 +70,22 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Molecular Biology (Erasmus+)
+    institution: Umeå University, Sweden
+    date_start: 2018
+    date_end: 2019
+    summary: 
+      GPA: 3.4/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+        
+  - area: BSc Biology
+    institution: Alcala University, Spain
+    date_start: 2015
+    date_end: 2018
     summary: |
       GPA: 3.4/4.0
       
