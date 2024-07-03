@@ -10,8 +10,8 @@ first_name: Oleg
 last_name: Belyaev K.
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+# icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -38,7 +38,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: www.linkedin.com/in/olegbelyaevkorolev
+    url: https://www.linkedin.com/in/olegbelyaevkorolev/
   - icon: academicons/google-scholar
     url: https://scholar.google.co.uk/citations?user=M7wfOdwAAAAJ&hl=en
   - icon: academicons/orcid
